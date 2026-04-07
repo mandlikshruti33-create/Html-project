@@ -1,0 +1,11 @@
+a=5
+b=3
+print("Sum:",a+b)
+
+n=4
+print("Even" if n%2==0 else "Odd")
+
+print("Square:",n*n)
+
+x=int(input("Enter number: "))
+print("You entered:",x)
